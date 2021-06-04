@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "build": "webpack",
+    "serve": "webpack-cli serve --open --mode development"
+  },
   "devDependencies": {
     "ts-loader": "^9.2.2",
     "typescript": "^4.3.2",
